@@ -15,11 +15,11 @@ So, grab a cup of coffee ☕, sit back, and explore the wonders of my Flutter cr
 ## 🗺️ Explore My Projects
 
 ### 1. **🌍 Bitcoin Ticker**
-   - **✨ Description**: This project is all about [brief overview]. Whether you're looking for [feature] or [feature], this app has you covered!
+   - **✨ Description**: This project is all about connecting to a Bitcoin API and displaying that data.
    - **🛠️ Features**: 
-     - Feature 1
-     - Feature 2
-     - Feature 3
+     - Card Widget Creation
+     - Utilising specific platform widgets for iOS and Android 
+     - Pulling Data from an API depending on what has been selecetd.
    - **🔗 Check it out**: [GitHub Repository](https://github.com/Khondwani/bitcoin-ticker-flutter)
 
 ### 2. **📱 Project Name 2**
@@ -40,6 +40,6 @@ So, grab a cup of coffee ☕, sit back, and explore the wonders of my Flutter cr
 
 ## 🎉 Thanks for Visiting!
 
-I hope you enjoy exploring these projects as much as I enjoyed building them. Feel free to reach out if you have any questions, feedback, or just want to chat about Flutter. Happy coding! 💻✨
+I hope you enjoy exploring these projects as much as I enjoyed building them. Feel free to reach out if you have any questions, or feedback, or just want to chat about Flutter. Happy coding! 💻✨
 
 ---
