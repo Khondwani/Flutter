@@ -20,7 +20,7 @@ So, grab a cup of coffee ☕, sit back, and explore the wonders of my Flutter cr
      - Feature 1
      - Feature 2
      - Feature 3
-   - **🔗 Check it out**: [GitHub Repository](#https://github.com/Khondwani/bitcoin-ticker-flutter)
+   - **🔗 Check it out**: [GitHub Repository](https://github.com/Khondwani/bitcoin-ticker-flutter)
 
 ### 2. **📱 Project Name 2**
    - **🚀 Description**: Dive into this [project type] that takes [concept] to the next level! Perfect for [user type] who need [functionality].
