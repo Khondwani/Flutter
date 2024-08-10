@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Hey there! I'm thrilled to have you here in my little corner of the GitHub universe. 🚀 Over the past 2 years, I've been diving into the amazing world of Flutter, creating a range of projects that showcase the power and flexibility of this incredible framework. From mobile apps to web experiences, Flutter has been my magical toolkit for bringing ideas to life. 🌈
+Hey there! I'm thrilled to have you here in my little corner of the GitHub universe. 🚀 Over the past 3 years, I've been diving into the amazing world of Flutter, creating a range of projects that showcase the power and flexibility of this incredible framework. From mobile apps to web experiences, Flutter has been my magical toolkit for bringing ideas to life. 🌈
 
 So, grab a cup of coffee ☕, sit back, and explore the wonders of my Flutter creations below!
 
