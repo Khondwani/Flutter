@@ -37,13 +37,21 @@ Shoutout to Dr. Angela Yu for the amazing course that allowed me to explore the 
      - Understand the difference between const and final in Dart and when to use each.
    - **🌐 Take a look**: [GitHub Repository](https://github.com/Khondwani/bmi-calculator-flutter/tree/main)
 
-### 3. **💼 Project Name 3**
-   - **💡 Description**: This project was built to solve [problem] with a unique approach. It's a must-see for anyone interested in [industry or technology].
+### 3. **💼 Clima Weather App**
+   - **💡 Description**: The objective of this is to learn about asynchronous programming in Dart. We'll look at how to carry out time-consuming tasks such as getting device location and networking to get data from the internet.
    - **📊 Features**: 
-     - Feature 1
-     - Feature 2
-     - Feature 3
-   - **🔍 Explore it**: [GitHub Repository](#)
+      - How to use Dart to perform asynchronous tasks.
+      - Understand async and await.
+      - Learn about Futures and how to work with them.
+      - How to network with the Dart http package.
+      - What APIs are and how to use them to get data from the internet.
+      - What JSONs are and how to parse them using the Dart convert package.
+      - How to pass data forwards and backwards between screens using the Navigator.
+      - How to handle exceptions in Dart using try/catch/throw.
+      - Learn about the lifecycle of Stateful Widgets and how to override them.
+      - How to use the Geolocator package to get live location data for both iOS and Android.
+      - How to use the TextField Widget to take user input.
+   - **🔍 Explore it**: [GitHub Repository](https://github.com/Khondwani/Clima-Flutter/tree/main)
 
 ## 🎉 Thanks for Visiting!
 
