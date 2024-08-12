@@ -53,6 +53,20 @@ Shoutout to Dr. Angela Yu for the amazing course that allowed me to explore the 
       - How to use the TextField Widget to take user input.
    - **🔍 Explore it**: [GitHub Repository](https://github.com/Khondwani/Clima-Flutter/tree/main)
 
+
+### 4. **📱 Flash Chat App**
+   - **💎 Description:** this aims to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore and the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods.
+   - **🧪 Features**:
+     - How to incorporate Firebase into your Flutter projects.
+     - How to use Firebase authentication to register and sign in users.
+     - How to create beautiful animations using the Flutter Hero widget.
+     - How to create custom aniamtions using Flutter's animation controller. 
+     - Learn all about mixins and how they differ from superclasses.
+     - Learn about Streams and how they work.
+     - Learn to use ListViews to build scrolling views.
+     - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+   - **🔍 Explore it**: [GitHub Repository](https://github.com/Khondwani/flash-chat-flutter/tree/main)
+
 ## 🎉 Thanks for Visiting!
 
 I hope you enjoy exploring these projects as much as I enjoyed building them. Feel free to reach out if you have any questions, or feedback, or just want to chat about Flutter. Happy coding! 💻✨
